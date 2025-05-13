@@ -45,15 +45,3 @@ The script is highly customizable. You can:
 * Modify the time window for historical data analysis
 
 Simply run the script after setting your parameters, and it generates visualizations showing PPSF trends for properties matching your criteria.
-
-## About the Author
-
-This project demonstrates my approach to solving real-world problems through data science. It showcases my skills in:
-
-* Developing practical data analysis tools
-* Writing clean, well-documented code
-* Building data pipelines from raw data to actionable insights
-* Creating visualizations that make complex data easy to understand
-* Applying statistical methods to support decision-making
-
-I bring these same analytical capabilities and attention to detail to all my data science projects.
