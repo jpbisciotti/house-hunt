@@ -14,7 +14,7 @@ You can make better informed offers by understanding how PPSF has moved over tim
 
 1. Define your search parameters. 
 2. Pull transaction data, sold prices from Redfin's API going back five years. 
-3. Clean and transform the data: standardize names, remove incomplete records, calculate PPSF, and create grouping variables. 
+3. Clean and transform the data. 
 4. Visualize trends. 
 5. Export the data. 
 
