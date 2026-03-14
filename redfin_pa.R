@@ -89,7 +89,7 @@ redfin_00 <- readr::read_csv(
          "&num_baths=", num_baths,
          "&max_num_baths=", max_num_baths,
          "&num_beds=", num_baths,
-         "&max_num_beds=", max_num_baths,
+         "&max_num_beds=", max_num_beds,
          "&v=8")
 )
 
