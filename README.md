@@ -54,8 +54,6 @@ The code is organized with section headers, commented parameters, and a logical 
 
 ## Audience 
 
-This script benefits data-literate home buyers who can run R scripts and interpret statistical plots. This tool gives them a structured, evidence-based framework for evaluating asking prices and calibrating offers. 
-
-List sites have made transaction data more accessible, and technically skilled buyers increasingly build their own analyses rather than relying solely on agent comparative market analyses. 
+This script benefits data-literate home buyers who can run R scripts and interpret statistical plots. This tool gives them a structured, evidence-based framework for evaluating asking prices and calibrating offers. List sites have made transaction data more accessible, and technically skilled buyers increasingly build their own analyses rather than relying solely on agent comparative market analyses. 
 
 I wrote this script as a solution to answer my own question and leave breadcrumbs for anyone who may find the script useful. 
